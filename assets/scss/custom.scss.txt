@@ -1,0 +1,8 @@
+.portrait {
+border-radius: initial !important;
+}
+
+img {
+    max-width:80%;
+    height:auto;
+}

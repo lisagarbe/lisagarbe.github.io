@@ -1,0 +1,31 @@
+# Theme metadata
+name = "bm_theme"
+
+# Is theme light or dark?
+light = true
+
+# Primary (color of links in widgets and pages)
+primary = "#1F618D"
+
+
+# Menu
+# header black, white font, red active
+menu_primary = "#2E4053" # blacki-ish
+menu_text = "#F7F9F9" # white-ish
+menu_text_active = "#F39C12" # orange
+menu_title = "#D0D3D4"
+
+# Home sections (Widget background colors)
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(245, 245, 245)"
+
+
+# ORIGINAL COLOR SCHEME:
+# Primary
+#primary = "#2962ff"
+
+# Menu
+#menu_primary = "#fff"
+#menu_text = "#34495e"
+#menu_text_active = "#2962ff"
+#menu_title = "#2b2b2b"
