@@ -22,9 +22,10 @@ organizations:
 
 interests:
 - Comparative Politics
-- African Politics
 - Censorship
-- Mobilization
+- Information and Communication Technology
+- Inequality
+- Protest
 
 
 education:
@@ -82,7 +83,15 @@ email: "lisa.garbe@wzb.eu"
 # - Visitors
 ---
 
-I am a postdoctoral research fellow in the Institutions and Political Inequality unit at the [Berlin Social Science Center (WZB)](https://wzb.eu/de) in Berlin, Germany. I graduated with a PhD in Political Science from the [University of St.Gallen](https://www.unisg.ch/en/), Switzerland, in 2021. I study authoritarianism and political exclusion with a particular focus on how digitalization affects core democratic processes such as elections. My current research explores how governments censor internet access and the consequences of censorship for political mobilization in Africa. I have conducted research in Uganda and Ethiopia. 
+I am a postdoctoral research fellow in the Institutions and Political Inequality unit at the [Berlin Social Science Center (WZB)](https://wzb.eu/de) in Berlin, Germany. 
+
+My general research interests include comparative politics, conflict studies, Internet politics, and political inequality. 
+
+Most of my current research projects explore how digitalization affects core democratic institutions such as elections and shape government-citizen relationships. I am interested in both the <i>intended</i> consequences of government efforts to control internet access, such as censorship or shutdowns, and the <i>unintended</i> repercussions of government digitalization initiatives, including biometric identification systems.
+
+My work has been published in the [Journal of Peace Research](https://journals.sagepub.com/home/JPR), [Review of International Organizations](https://www.springer.com/journal/11558), and [PLOS ONE](https://journals.plos.org/plosone/), among others.  
+
+I have conducted field research in Uganda and Ethiopia. 
 
 
 See my [CV](files/cv_meder.pdf) for details.
