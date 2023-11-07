@@ -71,7 +71,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/cv_meder.pdf
+  link: files/CV_Lisa.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "lisa.garbe@wzb.eu"
@@ -94,5 +94,5 @@ My work has been published in the [Journal of Peace Research](https://journals.s
 I have conducted field research in Uganda and Ethiopia. 
 
 
-See my [CV](files/cv_meder.pdf) for details.
+See my [CV](files/CV_Lisa.pdf) for details.
 
