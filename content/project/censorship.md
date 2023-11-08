@@ -2,11 +2,14 @@
 title: Censorship
 summary: This research project explores the causes and consequences of online censorship.
 tags:
-- Censorship
-- Protest
-- Election Violence
+ - censorship
+ - protest
+ - election violence
 date: "2016-04-27T00:00:00Z"
 
+related:
+  - publication/2018-09-18-freyburg-garbe-ijoc/index.md
+  
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

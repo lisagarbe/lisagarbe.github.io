@@ -9,9 +9,9 @@
   weight = 10
 
 [[main]]
-    name = "CV"
-    url = "files/"
-    weight = 20
+   name = "CV"
+   url = "files/"
+   weight = 20
 
 [[main]]
   name = "Publications"
@@ -57,4 +57,11 @@
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# Link to a PDF of your resume/CV from the menu.
+
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
+#[[main]]
+# name: CV
+#    url: files/CV_Lisa.pdf
+#    weight: 20
 

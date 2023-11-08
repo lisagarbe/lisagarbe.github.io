@@ -10,7 +10,7 @@ image_preview = ""
 featured = true
 selected = false
 projects = []
-tags = ["Content Regulation", "Fake News", "Hate Speech", "Africa", "Structural Topic Modelling"]
+tags = ["content regulation", "fake news", "hate speech", "Africa", "structural topic modelling"]
 url_pdf = "https://www.tandfonline.com/doi/epdf/10.1080/1369118X.2021.1994623?needAccess=true&role=button"
 url_preprint = ""
 url_code = ""
