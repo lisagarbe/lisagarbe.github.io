@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>networks | Lisa Garbe</title>
+    <link>/tags/networks/</link>
+      <atom:link href="/tags/networks/index.xml" rel="self" type="application/rss+xml" />
+    <description>networks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>networks</title>
+      <link>/tags/networks/</link>
+    </image>
+    
+    <item>
+      <title>Elite Networks</title>
+      <link>/project/elites/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/elites/</guid>
+      <description>&lt;p&gt;This research project explores how elite networks shape politics and affect political inequality. First, joint work with researchers at the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.uni-frankfurt.de/de?locale=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Frankfurt&lt;/a&gt; examines the networks between foreign-authoritarian shareholders of internet-providing companies and their role in tightening control over local internet provision using data from the TOSCO project (link to TOSCO project).&lt;/p&gt;
+&lt;p&gt;More recent work together with researchers at 
+&lt;a href=&#34;https://wzb.eu/de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WZB&lt;/a&gt; explores the role that networks between political and economic elites play in shaping political inequality. We currently pilot a data collection based on publicly available Wiki data entries and social media data to assess the scope for a global data set of elites. We further analyse the effect of connections between Members of Parliament and economic elites on housing markets in the German context.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

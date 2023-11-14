@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>development | Lisa Garbe</title>
+    <link>/tags/development/</link>
+      <atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <description>development</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>development</title>
+      <link>/tags/development/</link>
+    </image>
+    
+    <item>
+      <title>Digitalization &amp; AI in the Global South</title>
+      <link>/project/digitalization/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/project/digitalization/</guid>
+      <description>&lt;p&gt;In the Global South, governments increasingly use Artificial Intelligence often in an attempt to make government structures more efficient and facilitate citizens&amp;rsquo; access to state services. In this research project, I look at two applications of AI in Global South countries.&lt;/p&gt;
+&lt;p&gt;First, I examine how different aspects of biometric identification systems affect different groups in society. In this project, together with researchers at the 
+&lt;a href=&#34;https://wzb.eu/de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WZB&lt;/a&gt;, 
+&lt;a href=&#34;https://www.vanderbilt.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vanderbilt University&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt;, we run a survey experiment to analyze the effect of different policies governing biometric identification on citizens&amp;rsquo; willingness to register for such a program across different ethnic groups in Kenya. You can find the pre-analysis plan for this project 
+&lt;a href=&#34;https://osf.io/57gqx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Second, together with researchers at 
+&lt;a href=&#34;https://www.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU&lt;/a&gt; and 
+&lt;a href=&#34;https://www.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell University&lt;/a&gt; we explore different applications of Facial Recognition Technologies (FRT) in sub-Saharan Africa and their impact on assembly in public spaces.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

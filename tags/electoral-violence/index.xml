@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>electoral violence | Lisa Garbe</title>
+    <link>/tags/electoral-violence/</link>
+      <atom:link href="/tags/electoral-violence/index.xml" rel="self" type="application/rss+xml" />
+    <description>electoral violence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>electoral violence</title>
+      <link>/tags/electoral-violence/</link>
+    </image>
+    
+    <item>
+      <title>Pulling through elections by pulling the plug: Internet disruptions and electoral violence in Uganda</title>
+      <link>/publication/2023-07-05_garbe_jpr/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/2023-07-05_garbe_jpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Censorship</title>
+      <link>/project/censorship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/censorship/</guid>
+      <description>&lt;p&gt;This project examines the causes and consequences of online censorship. Governments worldwide frequently block and censor internet access often during times of political contention. First, I study the role that telecommunications companies play in facilitating or hindering internet censorship using data from the 
+&lt;a href=&#34;https://tosco.shinyapps.io/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Telecommunications Ownership and Control (TOSCO) Dataset&lt;/a&gt;, a large-scale data collection effort in collaboration with researchers at the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.uni-frankfurt.de/de?locale=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Frankfurt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Second, I study the consequences of online censorship for offline protest using a Virtual Private Network (VPN) data to infer moments of censorship in collaboration with researchers at the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt;, the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford&lt;/a&gt; and 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stockholm University&lt;/a&gt;. A previous publication examined the consequences of an internet shutdown for electoral violence during the Ugandan 2016 presidential elections.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
