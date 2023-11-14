@@ -3,13 +3,12 @@ title: Telecommunications Ownership and Control
 summary: This project investigates determinants and effects of telecommunications ownership and includes data collection on telecom operators' shareholders.
 tags:
 - telecommunications ownership
-- democratization
-- internet infrastructure
-- internet service provision
+#- democratization
+#- internet infrastructure
+#- internet service provision
 
 related:
-  - publication/2018-09-18-freyburg-garbe-ijoc/index.md
-date: "2016-04-27T00:00:00Z"
+  - content/publication/2022-12-07_freyburg_et_al_roio/index.md
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

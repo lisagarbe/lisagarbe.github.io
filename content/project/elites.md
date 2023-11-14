@@ -9,10 +9,10 @@ title = "Elite Networks"
 summary = "This project explores networks of political and economics elites and their consequences for politics"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-#image_preview = "tosco.jpg"
+# image_preview = "static/tosco.jpg"
 
 # Tags: can be used for filtering projects.
-tags = ["elites","authoritarianism","telecommunications ownership"]
+tags = ["elites","authoritarianism", "networks"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://tosco.shinyapps.io/data/"

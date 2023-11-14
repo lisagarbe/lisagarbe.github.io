@@ -10,7 +10,7 @@ image_preview = ""
 featured = true
 selected = false
 projects = []
-tags = ["corporate governance", "democratization", "internet", "owner identity", "repression"]
+tags = ["corporate governance", "democratization", "internet", "telecommunications ownership", "repression"]
 url_pdf = "https://link.springer.com/content/pdf/10.1007/s11558-022-09483-z.pdf?pdf=button"
 url_preprint =""
 url_code = ""

@@ -3,6 +3,8 @@ title: Digitalization & AI in the Global South
 summary: This research project explores how AI and its application affects political participation in the Global South.
 tags:
 - digitalization
+- AI
+- development
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
