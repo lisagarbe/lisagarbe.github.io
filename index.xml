@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa Garbe</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisagarbe.github.io/</link>
+      <atom:link href="https://lisagarbe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Lisa Garbe</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lisa Garbe</title>
-      <link>/</link>
+      <link>https://lisagarbe.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/2020-test/</link>
+      <link>https://lisagarbe.github.io/talk/2020-test/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/2020-test/</guid>
+      <guid>https://lisagarbe.github.io/talk/2020-test/</guid>
       <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
   &lt;div&gt;
     &lt;h1 id=&#34;click-on-the-slides-button-above-to-view-the-built-in-slides-feature&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/h1&gt;
@@ -37,57 +37,74 @@
     
     <item>
       <title>Pulling through elections by pulling the plug: Internet disruptions and electoral violence in Uganda</title>
-      <link>/publication/2023-07-05_garbe_jpr/</link>
+      <link>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023-07-05_garbe_jpr/</guid>
+      <guid>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Digitalization &amp; AI in the Global South</title>
+      <link>https://lisagarbe.github.io/project/digitalization/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/project/digitalization/</guid>
+      <description>&lt;p&gt;In the Global South, governments increasingly use Artificial Intelligence often in an attempt to make government structures more efficient and facilitate citizens&amp;rsquo; access to state services. In this research project, I look at two applications of AI in Global South countries.&lt;/p&gt;
+&lt;p&gt;First, I examine how different aspects of biometric identification systems affect different groups in society. In this project, together with researchers at the 
+&lt;a href=&#34;https://wzb.eu/de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WZB&lt;/a&gt;, 
+&lt;a href=&#34;https://www.vanderbilt.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vanderbilt University&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt;, we run a survey experiment to analyze the effect of different policies governing biometric identification on citizens&amp;rsquo; willingness to register for such a program across different ethnic groups in Kenya. You can find the pre-analysis plan for this project 
+&lt;a href=&#34;https://osf.io/57gqx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Second, together with researchers at 
+&lt;a href=&#34;https://www.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU&lt;/a&gt; and 
+&lt;a href=&#34;https://www.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell University&lt;/a&gt; we explore different applications of Facial Recognition Technologies (FRT) in sub-Saharan Africa and their impact on assembly in public spaces.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The political power of internet business: A comprehensive dataset of Telecommunications Ownership and Control (TOSCO)</title>
-      <link>/publication/2022-12-07_freyburg_et_al_roio/</link>
+      <link>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-12-07_freyburg_et_al_roio/</guid>
+      <guid>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How African countries respond to fake news and hate speech</title>
-      <link>/publication/2021-11-09_garbe_et_al_ics/</link>
+      <link>https://lisagarbe.github.io/publication/2021-11-09_garbe_et_al_ics/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-11-09_garbe_et_al_ics/</guid>
+      <guid>https://lisagarbe.github.io/publication/2021-11-09_garbe_et_al_ics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influence of perceived threat of Covid-19 and HEXACO personality traits on toilet paper stockpiling</title>
-      <link>/publication/2020-06-12_garbe_et_al_plosone/</link>
+      <link>https://lisagarbe.github.io/publication/2020-06-12_garbe_et_al_plosone/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-06-12_garbe_et_al_plosone/</guid>
+      <guid>https://lisagarbe.github.io/publication/2020-06-12_garbe_et_al_plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>my-talk-name.md</title>
-      <link>/talk/my-talk-name/</link>
+      <link>https://lisagarbe.github.io/talk/my-talk-name/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/my-talk-name/</guid>
+      <guid>https://lisagarbe.github.io/talk/my-talk-name/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Droughts, livelihoods, and human migration in northern Ethiopia</title>
-      <link>/publication/2019-04-01_hermans_garbe_rec/</link>
+      <link>https://lisagarbe.github.io/publication/2019-04-01_hermans_garbe_rec/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-04-01_hermans_garbe_rec/</guid>
+      <guid>https://lisagarbe.github.io/publication/2019-04-01_hermans_garbe_rec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datenschutzerklärung</title>
-      <link>/about/</link>
+      <link>https://lisagarbe.github.io/about/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>https://lisagarbe.github.io/about/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als &amp;ldquo;Onlineangebot“).&lt;/p&gt;
 &lt;p&gt;Die verwendeten Begriffe sind nicht geschlechtsspezifisch.&lt;/p&gt;
@@ -238,9 +255,9 @@ Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https://lisagarbe.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/privacy/</guid>
+      <guid>https://lisagarbe.github.io/privacy/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;Mit der folgenden Datenschutzerklärung möchten wir Sie darüber aufklären, welche Arten Ihrer personenbezogenen Daten (nachfolgend auch kurz als &amp;ldquo;Daten“ bezeichnet) wir zu welchen Zwecken und in welchem Umfang verarbeiten. Die Datenschutzerklärung gilt für alle von uns durchgeführten Verarbeitungen personenbezogener Daten, sowohl im Rahmen der Erbringung unserer Leistungen als auch insbesondere auf unseren Webseiten, in mobilen Applikationen sowie innerhalb externer Onlinepräsenzen, wie z.B. unserer Social-Media-Profile (nachfolgend zusammenfassend bezeichnet als &amp;ldquo;Onlineangebot“).&lt;/p&gt;
 &lt;p&gt;Die verwendeten Begriffe sind nicht geschlechtsspezifisch.&lt;/p&gt;
@@ -391,9 +408,9 @@ Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von
     
     <item>
       <title>Information search: Foundations, psychology, and developmental trajectories</title>
-      <link>/talk/2020-test-copy/</link>
+      <link>https://lisagarbe.github.io/talk/2020-test-copy/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/2020-test-copy/</guid>
+      <guid>https://lisagarbe.github.io/talk/2020-test-copy/</guid>
       <description>&lt;p&gt;Embed your slides or video here using 
 &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
@@ -401,34 +418,17 @@ Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von
     
     <item>
       <title>Blocking the Bottleneck: Internet Shutdowns and Ownership at Election Times in Sub-Saharan Africa</title>
-      <link>/publication/2018-09-18-freyburg-garbe-ijoc/</link>
+      <link>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-09-18-freyburg-garbe-ijoc/</guid>
+      <guid>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Digitalization &amp; AI in the Global South</title>
-      <link>/project/digitalization/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/digitalization/</guid>
-      <description>&lt;p&gt;In the Global South, governments increasingly use Artificial Intelligence often in an attempt to make government structures more efficient and facilitate citizens&amp;rsquo; access to state services. In this research project, I look at two applications of AI in Global South countries.&lt;/p&gt;
-&lt;p&gt;First, I examine how different aspects of biometric identification systems affect different groups in society. In this project, together with researchers at the 
-&lt;a href=&#34;https://wzb.eu/de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WZB&lt;/a&gt;, 
-&lt;a href=&#34;https://www.vanderbilt.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vanderbilt University&lt;/a&gt;, and 
-&lt;a href=&#34;https://www.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt;, we run a survey experiment to analyze the effect of different policies governing biometric identification on citizens&amp;rsquo; willingness to register for such a program across different ethnic groups in Kenya. You can find the pre-analysis plan for this project 
-&lt;a href=&#34;https://osf.io/57gqx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Second, together with researchers at 
-&lt;a href=&#34;https://www.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU&lt;/a&gt; and 
-&lt;a href=&#34;https://www.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell University&lt;/a&gt; we explore different applications of Facial Recognition Technologies (FRT) in sub-Saharan Africa and their impact on assembly in public spaces.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Elite Networks</title>
-      <link>/project/elites/</link>
+      <link>https://lisagarbe.github.io/project/elites/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/elites/</guid>
+      <guid>https://lisagarbe.github.io/project/elites/</guid>
       <description>&lt;p&gt;This research project explores how elite networks shape politics and affect political inequality. First, joint work with researchers at the 
 &lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
 &lt;a href=&#34;https://www.uni-frankfurt.de/de?locale=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Frankfurt&lt;/a&gt; examines the networks between foreign-authoritarian shareholders of internet-providing companies and their role in tightening control over local internet provision using data from the TOSCO project (link to TOSCO project).&lt;/p&gt;
@@ -439,9 +439,9 @@ Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von
     
     <item>
       <title>Censorship</title>
-      <link>/project/censorship/</link>
+      <link>https://lisagarbe.github.io/project/censorship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/censorship/</guid>
+      <guid>https://lisagarbe.github.io/project/censorship/</guid>
       <description>&lt;p&gt;This project examines the causes and consequences of online censorship. Governments worldwide frequently block and censor internet access often during times of political contention. First, I study the role that telecommunications companies play in facilitating or hindering internet censorship using data from the 
 &lt;a href=&#34;https://tosco.shinyapps.io/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Telecommunications Ownership and Control (TOSCO) Dataset&lt;/a&gt;, a large-scale data collection effort in collaboration with researchers at the 
 &lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
@@ -455,9 +455,9 @@ Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von
     
     <item>
       <title>Telecommunications Ownership and Control</title>
-      <link>/project/tel-ownership/</link>
+      <link>https://lisagarbe.github.io/project/tel-ownership/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/tel-ownership/</guid>
+      <guid>https://lisagarbe.github.io/project/tel-ownership/</guid>
       <description>&lt;p&gt;This project is motivated by the observation that empirical studies on the determinants and effects of internet access typically treat the internet as a &amp;ldquo;black box&amp;rdquo; neglecting the different actors involved in providing and manipulating internet access. Together with researchers at the 
 &lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
 &lt;a href=&#34;https://www.uni-frankfurt.de/de?locale=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Frankfurt&lt;/a&gt;, we provide the first large-scale data collection of telecommunications companies and their shareholders, the Telecommunications and and Control (TOSCO) data set.&lt;/p&gt;
@@ -469,9 +469,9 @@ Sofern wir in dieser Datenschutzerklärung Adressen und Kontaktinformationen von
     
     <item>
       <title>Transnational information suppression</title>
-      <link>/project/horizon/</link>
+      <link>https://lisagarbe.github.io/project/horizon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/project/horizon/</guid>
+      <guid>https://lisagarbe.github.io/project/horizon/</guid>
       <description></description>
     </item>
     

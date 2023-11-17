@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa Garbe</title>
-    <link>/authors/garbe/</link>
-      <atom:link href="/authors/garbe/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisagarbe.github.io/authors/garbe/</link>
+      <atom:link href="https://lisagarbe.github.io/authors/garbe/index.xml" rel="self" type="application/rss+xml" />
     <description>Lisa Garbe</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Lisa Garbe</title>
-      <link>/authors/garbe/</link>
+      <link>https://lisagarbe.github.io/authors/garbe/</link>
     </image>
     
   </channel>

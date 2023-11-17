@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>democratization | Lisa Garbe</title>
-    <link>/tags/democratization/</link>
-      <atom:link href="/tags/democratization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisagarbe.github.io/tags/democratization/</link>
+      <atom:link href="https://lisagarbe.github.io/tags/democratization/index.xml" rel="self" type="application/rss+xml" />
     <description>democratization</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>democratization</title>
-      <link>/tags/democratization/</link>
+      <link>https://lisagarbe.github.io/tags/democratization/</link>
     </image>
     
     <item>
       <title>The political power of internet business: A comprehensive dataset of Telecommunications Ownership and Control (TOSCO)</title>
-      <link>/publication/2022-12-07_freyburg_et_al_roio/</link>
+      <link>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-12-07_freyburg_et_al_roio/</guid>
+      <guid>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</guid>
       <description></description>
     </item>
     

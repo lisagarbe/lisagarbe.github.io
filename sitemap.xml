@@ -2,196 +2,192 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/authors/</loc>
+    <loc>https://lisagarbe.github.io/authors/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/bm/</loc>
+    <loc>https://lisagarbe.github.io/authors/bm/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/cw/</loc>
+    <loc>https://lisagarbe.github.io/authors/cw/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/es/</loc>
+    <loc>https://lisagarbe.github.io/authors/es/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/2020-test/</loc>
+    <loc>https://lisagarbe.github.io/talk/2020-test/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://lisagarbe.github.io/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/</loc>
+    <loc>https://lisagarbe.github.io/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/2/</loc>
+    <loc>https://lisagarbe.github.io/publication_types/2/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/authoritarian-elections/</loc>
+    <loc>https://lisagarbe.github.io/tags/authoritarian-elections/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/electoral-violence/</loc>
+    <loc>https://lisagarbe.github.io/tags/electoral-violence/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication_types/</loc>
+    <loc>https://lisagarbe.github.io/publication_types/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
+    <loc>https://lisagarbe.github.io/publication/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/2023-07-05_garbe_jpr/</loc>
+    <loc>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/social-media/</loc>
+    <loc>https://lisagarbe.github.io/tags/social-media/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sub-saharan-africa/</loc>
+    <loc>https://lisagarbe.github.io/tags/sub-saharan-africa/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://lisagarbe.github.io/tags/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/corporate-governance/</loc>
+    <loc>https://lisagarbe.github.io/tags/ai/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/tags/development/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/tags/digitalization/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/project/digitalization/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/project/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/tags/corporate-governance/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/democratization/</loc>
+    <loc>https://lisagarbe.github.io/tags/democratization/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/internet/</loc>
+    <loc>https://lisagarbe.github.io/tags/internet/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/repression/</loc>
+    <loc>https://lisagarbe.github.io/tags/repression/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/telecommunications-ownership/</loc>
+    <loc>https://lisagarbe.github.io/tags/telecommunications-ownership/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/2022-12-07_freyburg_et_al_roio/</loc>
+    <loc>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/africa/</loc>
+    <loc>https://lisagarbe.github.io/tags/africa/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/content-regulation/</loc>
+    <loc>https://lisagarbe.github.io/tags/content-regulation/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/fake-news/</loc>
+    <loc>https://lisagarbe.github.io/tags/fake-news/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hate-speech/</loc>
+    <loc>https://lisagarbe.github.io/tags/hate-speech/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/2021-11-09_garbe_et_al_ics/</loc>
+    <loc>https://lisagarbe.github.io/publication/2021-11-09_garbe_et_al_ics/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/structural-topic-modelling/</loc>
+    <loc>https://lisagarbe.github.io/tags/structural-topic-modelling/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/2020-06-12_garbe_et_al_plosone/</loc>
+    <loc>https://lisagarbe.github.io/publication/2020-06-12_garbe_et_al_plosone/</loc>
     <lastmod>2020-06-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/my-talk-name/</loc>
+    <loc>https://lisagarbe.github.io/talk/my-talk-name/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/drought/</loc>
+    <loc>https://lisagarbe.github.io/tags/drought/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/2019-04-01_hermans_garbe_rec/</loc>
+    <loc>https://lisagarbe.github.io/publication/2019-04-01_hermans_garbe_rec/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ethiopia/</loc>
+    <loc>https://lisagarbe.github.io/tags/ethiopia/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/livelihoods/</loc>
+    <loc>https://lisagarbe.github.io/tags/livelihoods/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/migration/</loc>
+    <loc>https://lisagarbe.github.io/tags/migration/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://lisagarbe.github.io/about/</loc>
     <lastmod>2018-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/privacy/</loc>
+    <loc>https://lisagarbe.github.io/privacy/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url><url>
-    <loc>/talk/2020-test-copy/</loc>
+    <loc>https://lisagarbe.github.io/talk/2020-test-copy/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/2018-09-18-freyburg-garbe-ijoc/</loc>
+    <loc>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/elections/</loc>
+    <loc>https://lisagarbe.github.io/tags/elections/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/internet-service-provision/</loc>
+    <loc>https://lisagarbe.github.io/tags/internet-service-provision/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/internet-shutdown/</loc>
+    <loc>https://lisagarbe.github.io/tags/internet-shutdown/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ownership/</loc>
+    <loc>https://lisagarbe.github.io/tags/ownership/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ai/</loc>
+    <loc>https://lisagarbe.github.io/tags/authoritarianism/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/authoritarianism/</loc>
+    <loc>https://lisagarbe.github.io/project/elites/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/development/</loc>
+    <loc>https://lisagarbe.github.io/tags/elites/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/digitalization/</loc>
+    <loc>https://lisagarbe.github.io/tags/networks/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/digitalization/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://lisagarbe.github.io/authors/garbe/</loc>
   </url><url>
-    <loc>/project/elites/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://lisagarbe.github.io/categories/</loc>
   </url><url>
-    <loc>/tags/elites/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://lisagarbe.github.io/tags/censorship/</loc>
   </url><url>
-    <loc>/tags/networks/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://lisagarbe.github.io/project/censorship/</loc>
   </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://lisagarbe.github.io/authors/freyburg-t./</loc>
   </url><url>
-    <loc>/authors/admin/</loc>
+    <loc>https://lisagarbe.github.io/authors/garbe-l./</loc>
   </url><url>
-    <loc>/authors/garbe/</loc>
+    <loc>https://lisagarbe.github.io/authors/hermans-k./</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://lisagarbe.github.io/authors/lemaire-p./</loc>
   </url><url>
-    <loc>/tags/censorship/</loc>
+    <loc>https://lisagarbe.github.io/tags/protest/</loc>
   </url><url>
-    <loc>/project/censorship/</loc>
+    <loc>https://lisagarbe.github.io/authors/rau-r./</loc>
   </url><url>
-    <loc>/authors/freyburg-t./</loc>
+    <loc>https://lisagarbe.github.io/authors/selvik-l.-m./</loc>
   </url><url>
-    <loc>/authors/garbe-l./</loc>
+    <loc>https://lisagarbe.github.io/project/tel-ownership/</loc>
   </url><url>
-    <loc>/authors/hermans-k./</loc>
+    <loc>https://lisagarbe.github.io/authors/toppe-t./</loc>
   </url><url>
-    <loc>/authors/lemaire-p./</loc>
+    <loc>https://lisagarbe.github.io/tags/transnational/</loc>
   </url><url>
-    <loc>/post/</loc>
+    <loc>https://lisagarbe.github.io/project/horizon/</loc>
   </url><url>
-    <loc>/tags/protest/</loc>
-  </url><url>
-    <loc>/authors/rau-r./</loc>
-  </url><url>
-    <loc>/authors/selvik-l.-m./</loc>
-  </url><url>
-    <loc>/project/tel-ownership/</loc>
-  </url><url>
-    <loc>/authors/toppe-t./</loc>
-  </url><url>
-    <loc>/tags/transnational/</loc>
-  </url><url>
-    <loc>/project/horizon/</loc>
-  </url><url>
-    <loc>/authors/wavre-v./</loc>
+    <loc>https://lisagarbe.github.io/authors/wavre-v./</loc>
   </url>
 </urlset>

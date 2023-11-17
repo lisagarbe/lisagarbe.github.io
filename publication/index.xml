@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Lisa Garbe</title>
-    <link>/publication/</link>
-      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisagarbe.github.io/publication/</link>
+      <atom:link href="https://lisagarbe.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
-      <link>/publication/</link>
+      <link>https://lisagarbe.github.io/publication/</link>
     </image>
     
     <item>
       <title>Pulling through elections by pulling the plug: Internet disruptions and electoral violence in Uganda</title>
-      <link>/publication/2023-07-05_garbe_jpr/</link>
+      <link>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</link>
       <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>/publication/2023-07-05_garbe_jpr/</guid>
+      <guid>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The political power of internet business: A comprehensive dataset of Telecommunications Ownership and Control (TOSCO)</title>
-      <link>/publication/2022-12-07_freyburg_et_al_roio/</link>
+      <link>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</link>
       <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>/publication/2022-12-07_freyburg_et_al_roio/</guid>
+      <guid>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How African countries respond to fake news and hate speech</title>
-      <link>/publication/2021-11-09_garbe_et_al_ics/</link>
+      <link>https://lisagarbe.github.io/publication/2021-11-09_garbe_et_al_ics/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/2021-11-09_garbe_et_al_ics/</guid>
+      <guid>https://lisagarbe.github.io/publication/2021-11-09_garbe_et_al_ics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influence of perceived threat of Covid-19 and HEXACO personality traits on toilet paper stockpiling</title>
-      <link>/publication/2020-06-12_garbe_et_al_plosone/</link>
+      <link>https://lisagarbe.github.io/publication/2020-06-12_garbe_et_al_plosone/</link>
       <pubDate>Fri, 12 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/2020-06-12_garbe_et_al_plosone/</guid>
+      <guid>https://lisagarbe.github.io/publication/2020-06-12_garbe_et_al_plosone/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Droughts, livelihoods, and human migration in northern Ethiopia</title>
-      <link>/publication/2019-04-01_hermans_garbe_rec/</link>
+      <link>https://lisagarbe.github.io/publication/2019-04-01_hermans_garbe_rec/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/2019-04-01_hermans_garbe_rec/</guid>
+      <guid>https://lisagarbe.github.io/publication/2019-04-01_hermans_garbe_rec/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blocking the Bottleneck: Internet Shutdowns and Ownership at Election Times in Sub-Saharan Africa</title>
-      <link>/publication/2018-09-18-freyburg-garbe-ijoc/</link>
+      <link>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/2018-09-18-freyburg-garbe-ijoc/</guid>
+      <guid>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks and presentations | Lisa Garbe</title>
-    <link>/talk/</link>
-      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisagarbe.github.io/talk/</link>
+      <atom:link href="https://lisagarbe.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Talks and presentations</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Talks and presentations</title>
-      <link>/talk/</link>
+      <link>https://lisagarbe.github.io/talk/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>/talk/2020-test/</link>
+      <link>https://lisagarbe.github.io/talk/2020-test/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>/talk/2020-test/</guid>
+      <guid>https://lisagarbe.github.io/talk/2020-test/</guid>
       <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
   &lt;div&gt;
     &lt;h1 id=&#34;click-on-the-slides-button-above-to-view-the-built-in-slides-feature&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/h1&gt;
@@ -37,17 +37,17 @@
     
     <item>
       <title>my-talk-name.md</title>
-      <link>/talk/my-talk-name/</link>
+      <link>https://lisagarbe.github.io/talk/my-talk-name/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/my-talk-name/</guid>
+      <guid>https://lisagarbe.github.io/talk/my-talk-name/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Information search: Foundations, psychology, and developmental trajectories</title>
-      <link>/talk/2020-test-copy/</link>
+      <link>https://lisagarbe.github.io/talk/2020-test-copy/</link>
       <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
-      <guid>/talk/2020-test-copy/</guid>
+      <guid>https://lisagarbe.github.io/talk/2020-test-copy/</guid>
       <description>&lt;p&gt;Embed your slides or video here using 
 &lt;a href=&#34;https://gcushen.github.io/hugo-academic-demo/post/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>

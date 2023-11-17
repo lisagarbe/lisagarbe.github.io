@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>digitalization | Lisa Garbe</title>
-    <link>/tags/digitalization/</link>
-      <atom:link href="/tags/digitalization/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://lisagarbe.github.io/tags/digitalization/</link>
+      <atom:link href="https://lisagarbe.github.io/tags/digitalization/index.xml" rel="self" type="application/rss+xml" />
     <description>digitalization</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>digitalization</title>
-      <link>/tags/digitalization/</link>
+      <link>https://lisagarbe.github.io/tags/digitalization/</link>
     </image>
     
     <item>
       <title>Digitalization &amp; AI in the Global South</title>
-      <link>/project/digitalization/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/digitalization/</guid>
+      <link>https://lisagarbe.github.io/project/digitalization/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/project/digitalization/</guid>
       <description>&lt;p&gt;In the Global South, governments increasingly use Artificial Intelligence often in an attempt to make government structures more efficient and facilitate citizens&amp;rsquo; access to state services. In this research project, I look at two applications of AI in Global South countries.&lt;/p&gt;
 &lt;p&gt;First, I examine how different aspects of biometric identification systems affect different groups in society. In this project, together with researchers at the 
 &lt;a href=&#34;https://wzb.eu/de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WZB&lt;/a&gt;, 
