@@ -50,6 +50,7 @@
     <loc>https://lisagarbe.github.io/tags/</loc>
     <lastmod>2023-07-05T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>https://lisagarbe.github.io/tags/ai/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -65,6 +66,8 @@
     <loc>https://lisagarbe.github.io/project/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
   </url><url>
+=======
+>>>>>>> 8f01fea0ac39a771c4c0b5fb45468f333fe1a8d1
     <loc>https://lisagarbe.github.io/tags/corporate-governance/</loc>
     <lastmod>2022-12-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -146,9 +149,27 @@
     <loc>https://lisagarbe.github.io/tags/ownership/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
     <loc>https://lisagarbe.github.io/tags/authoritarianism/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
+=======
+    <loc>https://lisagarbe.github.io/tags/ai/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/tags/authoritarianism/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/tags/development/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/tags/digitalization/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://lisagarbe.github.io/project/digitalization/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+>>>>>>> 8f01fea0ac39a771c4c0b5fb45468f333fe1a8d1
     <loc>https://lisagarbe.github.io/project/elites/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -158,6 +179,12 @@
     <loc>https://lisagarbe.github.io/tags/networks/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
+<<<<<<< HEAD
+=======
+    <loc>https://lisagarbe.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+>>>>>>> 8f01fea0ac39a771c4c0b5fb45468f333fe1a8d1
     <loc>https://lisagarbe.github.io/authors/garbe/</loc>
   </url><url>
     <loc>https://lisagarbe.github.io/categories/</loc>
