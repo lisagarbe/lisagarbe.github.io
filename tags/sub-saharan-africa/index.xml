@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sub-Saharan Africa | Lisa Garbe</title>
+    <link>https://lisagarbe.github.io/tags/sub-saharan-africa/</link>
+      <atom:link href="https://lisagarbe.github.io/tags/sub-saharan-africa/index.xml" rel="self" type="application/rss+xml" />
+    <description>sub-Saharan Africa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>sub-Saharan Africa</title>
+      <link>https://lisagarbe.github.io/tags/sub-saharan-africa/</link>
+    </image>
+    
+    <item>
+      <title>Pulling through elections by pulling the plug: Internet disruptions and electoral violence in Uganda</title>
+      <link>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking the Bottleneck: Internet Shutdowns and Ownership at Election Times in Sub-Saharan Africa</title>
+      <link>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

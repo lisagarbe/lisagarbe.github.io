@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Africa | Lisa Garbe</title>
+    <link>https://lisagarbe.github.io/tags/africa/</link>
+      <atom:link href="https://lisagarbe.github.io/tags/africa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Africa</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Africa</title>
+      <link>https://lisagarbe.github.io/tags/africa/</link>
+    </image>
+    
+    <item>
+      <title>How African countries respond to fake news and hate speech</title>
+      <link>https://lisagarbe.github.io/publication/2021-11-09_garbe_et_al_ics/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/publication/2021-11-09_garbe_et_al_ics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

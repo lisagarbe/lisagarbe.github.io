@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>telecommunications ownership | Lisa Garbe</title>
+    <link>https://lisagarbe.github.io/tags/telecommunications-ownership/</link>
+      <atom:link href="https://lisagarbe.github.io/tags/telecommunications-ownership/index.xml" rel="self" type="application/rss+xml" />
+    <description>telecommunications ownership</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>telecommunications ownership</title>
+      <link>https://lisagarbe.github.io/tags/telecommunications-ownership/</link>
+    </image>
+    
+    <item>
+      <title>The political power of internet business: A comprehensive dataset of Telecommunications Ownership and Control (TOSCO)</title>
+      <link>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</link>
+      <pubDate>Wed, 07 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/publication/2022-12-07_freyburg_et_al_roio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blocking the Bottleneck: Internet Shutdowns and Ownership at Election Times in Sub-Saharan Africa</title>
+      <link>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/publication/2018-09-18-freyburg-garbe-ijoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telecommunications Ownership and Control</title>
+      <link>https://lisagarbe.github.io/project/tel-ownership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/project/tel-ownership/</guid>
+      <description>&lt;p&gt;This project is motivated by the observation that empirical studies on the determinants and effects of internet access typically treat the internet as a &amp;ldquo;black box&amp;rdquo; neglecting the different actors involved in providing and manipulating internet access. Together with researchers at the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.uni-frankfurt.de/de?locale=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Frankfurt&lt;/a&gt;, we provide the first large-scale data collection of telecommunications companies and their shareholders, the Telecommunications and and Control (TOSCO) data set.&lt;/p&gt;
+&lt;p&gt;Published papers related to this project introduce the TOSCO data set and showcase its importance in evaluating the effect of internet penetration on political outcomes such as democratization and corruption. We further provide a 
+&lt;a href=&#34;https://tosco.shinyapps.io/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dashboard&lt;/a&gt; making the data set available to other researchers and showcasing different aggregations of the data set.&lt;/p&gt;
+&lt;p&gt;Link to RIO paper&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

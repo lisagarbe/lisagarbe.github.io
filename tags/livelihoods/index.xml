@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>livelihoods | Lisa Garbe</title>
+    <link>https://lisagarbe.github.io/tags/livelihoods/</link>
+      <atom:link href="https://lisagarbe.github.io/tags/livelihoods/index.xml" rel="self" type="application/rss+xml" />
+    <description>livelihoods</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>livelihoods</title>
+      <link>https://lisagarbe.github.io/tags/livelihoods/</link>
+    </image>
+    
+    <item>
+      <title>Droughts, livelihoods, and human migration in northern Ethiopia</title>
+      <link>https://lisagarbe.github.io/publication/2019-04-01_hermans_garbe_rec/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/publication/2019-04-01_hermans_garbe_rec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

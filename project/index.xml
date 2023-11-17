@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Lisa Garbe</title>
+    <link>https://lisagarbe.github.io/project/</link>
+      <atom:link href="https://lisagarbe.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Projects</title>
+      <link>https://lisagarbe.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Digitalization &amp; AI in the Global South</title>
+      <link>https://lisagarbe.github.io/project/digitalization/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/project/digitalization/</guid>
+      <description>&lt;p&gt;In the Global South, governments increasingly use Artificial Intelligence often in an attempt to make government structures more efficient and facilitate citizens&amp;rsquo; access to state services. In this research project, I look at two applications of AI in Global South countries.&lt;/p&gt;
+&lt;p&gt;First, I examine how different aspects of biometric identification systems affect different groups in society. In this project, together with researchers at the 
+&lt;a href=&#34;https://wzb.eu/de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WZB&lt;/a&gt;, 
+&lt;a href=&#34;https://www.vanderbilt.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vanderbilt University&lt;/a&gt;, and 
+&lt;a href=&#34;https://www.mit.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt;, we run a survey experiment to analyze the effect of different policies governing biometric identification on citizens&amp;rsquo; willingness to register for such a program across different ethnic groups in Kenya. You can find the pre-analysis plan for this project 
+&lt;a href=&#34;https://osf.io/57gqx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Second, together with researchers at 
+&lt;a href=&#34;https://www.nyu.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NYU&lt;/a&gt; and 
+&lt;a href=&#34;https://www.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cornell University&lt;/a&gt; we explore different applications of Facial Recognition Technologies (FRT) in sub-Saharan Africa and their impact on assembly in public spaces.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elite Networks</title>
+      <link>https://lisagarbe.github.io/project/elites/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/project/elites/</guid>
+      <description>&lt;p&gt;This research project explores how elite networks shape politics and affect political inequality. First, joint work with researchers at the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.uni-frankfurt.de/de?locale=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Frankfurt&lt;/a&gt; examines the networks between foreign-authoritarian shareholders of internet-providing companies and their role in tightening control over local internet provision using data from the TOSCO project (link to TOSCO project).&lt;/p&gt;
+&lt;p&gt;More recent work together with researchers at 
+&lt;a href=&#34;https://wzb.eu/de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WZB&lt;/a&gt; explores the role that networks between political and economic elites play in shaping political inequality. We currently pilot a data collection based on publicly available Wiki data entries and social media data to assess the scope for a global data set of elites. We further analyse the effect of connections between Members of Parliament and economic elites on housing markets in the German context.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Censorship</title>
+      <link>https://lisagarbe.github.io/project/censorship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/project/censorship/</guid>
+      <description>&lt;p&gt;This project examines the causes and consequences of online censorship. Governments worldwide frequently block and censor internet access often during times of political contention. First, I study the role that telecommunications companies play in facilitating or hindering internet censorship using data from the 
+&lt;a href=&#34;https://tosco.shinyapps.io/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Telecommunications Ownership and Control (TOSCO) Dataset&lt;/a&gt;, a large-scale data collection effort in collaboration with researchers at the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.uni-frankfurt.de/de?locale=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Frankfurt&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Second, I study the consequences of online censorship for offline protest using a Virtual Private Network (VPN) data to infer moments of censorship in collaboration with researchers at the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt;, the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford&lt;/a&gt; and 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Stockholm University&lt;/a&gt;. A previous publication examined the consequences of an internet shutdown for electoral violence during the Ugandan 2016 presidential elections.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Telecommunications Ownership and Control</title>
+      <link>https://lisagarbe.github.io/project/tel-ownership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/project/tel-ownership/</guid>
+      <description>&lt;p&gt;This project is motivated by the observation that empirical studies on the determinants and effects of internet access typically treat the internet as a &amp;ldquo;black box&amp;rdquo; neglecting the different actors involved in providing and manipulating internet access. Together with researchers at the 
+&lt;a href=&#34;https://www.unisg.ch/en/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of St.Gallen&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.uni-frankfurt.de/de?locale=de&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Frankfurt&lt;/a&gt;, we provide the first large-scale data collection of telecommunications companies and their shareholders, the Telecommunications and and Control (TOSCO) data set.&lt;/p&gt;
+&lt;p&gt;Published papers related to this project introduce the TOSCO data set and showcase its importance in evaluating the effect of internet penetration on political outcomes such as democratization and corruption. We further provide a 
+&lt;a href=&#34;https://tosco.shinyapps.io/data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;dashboard&lt;/a&gt; making the data set available to other researchers and showcasing different aggregations of the data set.&lt;/p&gt;
+&lt;p&gt;Link to RIO paper&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Transnational information suppression</title>
+      <link>https://lisagarbe.github.io/project/horizon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/project/horizon/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

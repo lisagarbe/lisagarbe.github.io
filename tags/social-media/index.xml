@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>social media | Lisa Garbe</title>
+    <link>https://lisagarbe.github.io/tags/social-media/</link>
+      <atom:link href="https://lisagarbe.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>social media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>social media</title>
+      <link>https://lisagarbe.github.io/tags/social-media/</link>
+    </image>
+    
+    <item>
+      <title>Pulling through elections by pulling the plug: Internet disruptions and electoral violence in Uganda</title>
+      <link>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</link>
+      <pubDate>Wed, 05 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://lisagarbe.github.io/publication/2023-07-05_garbe_jpr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

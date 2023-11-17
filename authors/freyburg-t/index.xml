@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freyburg, T. | Lisa Garbe</title>
+    <link>https://lisagarbe.github.io/authors/freyburg-t./</link>
+      <atom:link href="https://lisagarbe.github.io/authors/freyburg-t./index.xml" rel="self" type="application/rss+xml" />
+    <description>Freyburg, T.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Freyburg, T.</title>
+      <link>https://lisagarbe.github.io/authors/freyburg-t./</link>
+    </image>
+    
+  </channel>
+</rss>
