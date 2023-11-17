@@ -1,0 +1,76 @@
+name = "Academic"
+license = "MIT"
+licenselink = "https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md"
+description = "The website builder for Hugo. Build *anything* with widgets and deploy with one click! Fully personalize your site with themes, plugins, and language packs."
+homepage = "https://sourcethemes.com/academic/"
+min_version = "0.62"
+tags = ["widgets",
+        "resume",
+        "portfolio",
+        "responsive",
+        "clean",
+        "personal",
+        "company",
+        "blog",
+        "minimal",
+        "light",
+        "dark",
+        "multilingual",
+        "documentation",
+        "landing page",
+        "projects",
+        "single page",
+        "contact form",
+        "mobile",
+        "gallery",
+        "search",
+        "presentation",
+        "simple",
+        "minimalist",
+        "starter",
+        "modern",
+        "one page",
+        "customizable",
+        "technical",
+        "product",
+        "slide",
+        "digitalization",
+        "elites",
+        "censorship",
+        "election violence",
+        "authoritarianism",
+        "telecommunications ownership",
+        "democratization",
+        "protest",
+        "internet infrastructure",
+        "corporate governance",
+        "internet",
+        "owner identity",
+        "repression",
+        "elections",
+        "internet service provision",
+        "internet shutdown",
+        "ownership",
+        "sub-Saharan Africa",
+        "drought",
+        "livelihoods",
+        "migration",
+        "Ethiopia",
+        "content regulation",
+        "fake news",
+        "hate speech",
+        "Africa",
+        "structural topic modellings"
+        ]
+features = ["page builder", "widgets", "themes", "search", "research publication system", "filterable portfolio",
+            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+
+[author]
+  name = "George Cushen"
+  homepage = "https://georgecushen.com"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
