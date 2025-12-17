@@ -89,7 +89,7 @@ My general research interests include comparative politics, conflict studies, In
 
 Most of my current research projects explore how digitalization affects core democratic institutions such as elections and shape government-citizen relationships. I am interested in both the <i>intended</i> consequences of government efforts to control internet access, such as censorship or shutdowns, and the <i>unintended</i> repercussions of government digitalization initiatives, including biometric identification systems.
 
-My work has been published in the [Journal of Peace Research](https://journals.sagepub.com/home/JPR), [Review of International Organizations](https://www.springer.com/journal/11558), and [PLOS ONE](https://journals.plos.org/plosone/), among others.  
+My work has been published in Comparative Political Studies, the [Journal of Peace Research](https://journals.sagepub.com/home/JPR), [Review of International Organizations](https://www.springer.com/journal/11558), and [PLOS ONE](https://journals.plos.org/plosone/), among others.  
 
 I have conducted field research in Uganda and Ethiopia. 
 
