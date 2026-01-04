@@ -46,7 +46,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Lisa Garbe - Postdoctoral Research Fellow at WZB Berlin Social Science Center. Research on comparative politics, internet politics, censorship, and political inequality."
 
 ############################
 ## Site Features
