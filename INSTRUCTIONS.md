@@ -33,7 +33,9 @@
    ```
    Replace the path above with your actual Hugo path on your computer.
    
-   This creates the `public/` folder with website files.
+   **Note:** Hugo must be installed separately (not in this project folder). If Hugo is in your PATH, you can just run `hugo` instead.
+   
+   This converts your Markdown files in `content/` to HTML files in the `public/` folder.
 
    **Important:** You must be in the project folder when running this command, otherwise Hugo won't find the config files.
 
