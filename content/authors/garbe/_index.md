@@ -59,9 +59,6 @@ social:
   icon_pack: ai
   link: https://orcid.org/0000-0001-7555-8007
   
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/lasergabi
 
 # - icon: github
 #  icon_pack: fab
@@ -83,15 +80,13 @@ email: "lisa.garbe@wzb.eu"
 # - Visitors
 ---
 
-I am a postdoctoral research fellow in the Institutions and Political Inequality unit at the [Berlin Social Science Center (WZB)](https://wzb.eu/de) in Berlin, Germany. 
-
-My general research interests include comparative politics, conflict studies, Internet politics, and political inequality. 
+I am a Research Fellow in the Institutions and Political Inequality unit at the [Berlin Social Science Center (WZB)](https://wzb.eu/de) directed by Macartan Humphreys. My primary research interests include comparative politics, conflict studies, Internet politics, and political inequality. 
 
 Most of my current research projects explore how digitalization affects core democratic institutions such as elections and shape government-citizen relationships. I am interested in both the <i>intended</i> consequences of government efforts to control internet access, such as censorship or shutdowns, and the <i>unintended</i> repercussions of government digitalization initiatives, including biometric identification systems.
 
-My work has been published in Comparative Political Studies, the [Journal of Peace Research](https://journals.sagepub.com/home/JPR), [Review of International Organizations](https://www.springer.com/journal/11558), and [PLOS ONE](https://journals.plos.org/plosone/), among others.  
+My work has been published in [Comparative Political Studies](https://journals.sagepub.com/home/cps), the [Journal of Peace Research](https://journals.sagepub.com/home/JPR), [Review of International Organizations](https://www.springer.com/journal/11558), and [PLOS ONE](https://journals.plos.org/plosone/), among others.  
 
-I have conducted field research in Uganda and Ethiopia. 
+I have conducted field research in Uganda, Ethiopia. and Kenya. 
 
 
 See my [CV](files/CV_Lisa.pdf) for details.
