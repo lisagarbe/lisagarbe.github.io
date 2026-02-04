@@ -29,7 +29,7 @@ slides: ""
 
 ---
 
-Governments worldwide increasingly use digitalization often in an attempt to make government structures more efficient and facilitate citizens' access to state services. In this research project, I study the implications of digital IDs for state-citizen relations.
+Governments worldwide increasingly use digitalization, often in an attempt to make government structures more efficient and facilitate citizens' access to state services. In this research project, I study the implications of digital IDs for state-citizen relations.
 
 Together with researchers at the [WZB](https://wzb.eu/de), [Vanderbilt University](https://www.vanderbilt.edu/), and [MIT](https://www.mit.edu/), we conducted a survey experiment to analyze the effect of different policies governing biometric identification on citizens' willingness to register for such a program across different ethnic groups in Kenya.
 
