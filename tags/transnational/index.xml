@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Transnational | Lisa Garbe</title>
+    <title>transnational | Lisa Garbe</title>
     <link>https://lisagarbe.github.io/tags/transnational/</link>
       <atom:link href="https://lisagarbe.github.io/tags/transnational/index.xml" rel="self" type="application/rss+xml" />
-    <description>Transnational</description>
+    <description>transnational</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Transnational</title>
+      <title>transnational</title>
       <link>https://lisagarbe.github.io/tags/transnational/</link>
     </image>
     
@@ -17,8 +17,7 @@
       <link>https://lisagarbe.github.io/project/horizon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://lisagarbe.github.io/project/horizon/</guid>
-      <description>&lt;p&gt;In this project, I explore the conditions under which authoritarian states deploy identity-based narratives across borders and how these narratives influence migrants’ political attitudes, identity formation, and political engagement. An initial study examines how identity-based news influences the attitudes of Chinese migrants in Europe toward China and their respective host countries with data collection scheduled for March 2026.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>

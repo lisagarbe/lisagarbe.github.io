@@ -1,32 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Social Media | Lisa Garbe</title>
+    <title>social media | Lisa Garbe</title>
     <link>https://lisagarbe.github.io/tags/social-media/</link>
       <atom:link href="https://lisagarbe.github.io/tags/social-media/index.xml" rel="self" type="application/rss+xml" />
-    <description>Social Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <description>social media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Social Media</title>
+      <title>social media</title>
       <link>https://lisagarbe.github.io/tags/social-media/</link>
     </image>
-    
-    <item>
-      <title>The rise of authoritarian informationalism: escalating surveillance, manipulation, and control</title>
-      <link>https://lisagarbe.github.io/publication/2025_12_18_garbe_maerz_democ/</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://lisagarbe.github.io/publication/2025_12_18_garbe_maerz_democ/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Authoritarian collaboration and repression in the digital age: balancing foreign direct investment and control in internet infrastructure</title>
-      <link>https://lisagarbe.github.io/publication/2025_01_13_garbe_maerz_freyburg/</link>
-      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://lisagarbe.github.io/publication/2025_01_13_garbe_maerz_freyburg/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Pulling through elections by pulling the plug: Internet disruptions and electoral violence in Uganda</title>
