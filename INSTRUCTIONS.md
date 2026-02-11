@@ -29,14 +29,14 @@
 
 3. **Then run Hugo:**
    ```powershell
-   C:\Users\seren\AppData\Roaming\Hugo\0.154.2\hugo.exe --destination docs
+   C:\Users\seren\AppData\Roaming\Hugo\0.154.2\hugo.exe --destination .
    ```
    Replace the path above with your actual Hugo path on your computer.
    
    **Note:** Hugo must be installed separately (not in this project folder). If Hugo is in your PATH, you can just run `hugo` instead.
    
-   This converts your Markdown files in `content/` to HTML files in `docs/` (the folder GitHub Pages serves when it's set to `main /docs`).
-   If your GitHub Pages source is set to the repository root, change the destination to `.` instead.
+   This converts your Markdown files in `content/` to HTML files in the repository root (GitHub Pages is set to `main /root`).
+   **Do not** use `--cleanDestinationDir` when the destination is the repository root, or it will delete the source files.
 
    **Important:** You must be in the project folder when running this command, otherwise Hugo won't find the config files.
 
