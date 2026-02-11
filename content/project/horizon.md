@@ -2,7 +2,7 @@
 title: Transnational information suppression
 summary: This project investigates authoritarian regimes' strategies to suppress information beyond borders.
 tags:
-- censorship
+- survey
 - repression
 - transnational
 #- internet service provision
@@ -21,6 +21,5 @@ slides: ""
 
 ---
 
-
-
+In this project, I explore the conditions under which authoritarian states deploy identity-based narratives across borders and how these narratives influence migrants’ political attitudes, identity formation, and political engagement. An initial study examines how identity-based news influences the attitudes of Chinese migrants in Europe toward China and their respective host countries with data collection scheduled for March 2026. 
 
