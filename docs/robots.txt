@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://lisagarbe.github.io/sitemap.xml
-
