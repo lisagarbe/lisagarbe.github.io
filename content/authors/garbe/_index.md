@@ -86,7 +86,7 @@ Most of my current research projects explore how digitalization affects core dem
 
 My work has been published in [Comparative Political Studies](https://journals.sagepub.com/home/cps), the [Journal of Peace Research](https://journals.sagepub.com/home/JPR), [Review of International Organizations](https://www.springer.com/journal/11558), and [PLOS ONE](https://journals.plos.org/plosone/), among others.  
 
-I have conducted field research in Uganda, Ethiopia. and Kenya. 
+I have conducted field research in Uganda, Ethiopia, and Kenya. 
 
 
 See my [CV](files/CV_Lisa.pdf) for details.
