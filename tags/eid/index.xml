@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>EID | Lisa Garbe</title>
+    <title>eID | Lisa Garbe | Personal Website | Research &amp; Publications</title>
     <link>https://lisagarbe.github.io/tags/eid/</link>
       <atom:link href="https://lisagarbe.github.io/tags/eid/index.xml" rel="self" type="application/rss+xml" />
-    <description>EID</description>
+    <description>eID</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>EID</title>
+      <title>eID</title>
       <link>https://lisagarbe.github.io/tags/eid/</link>
     </image>
     

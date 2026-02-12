@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CW | Lisa Garbe</title>
+    <title>CW | Lisa Garbe | Personal Website | Research &amp; Publications</title>
     <link>https://lisagarbe.github.io/authors/cw/</link>
       <atom:link href="https://lisagarbe.github.io/authors/cw/index.xml" rel="self" type="application/rss+xml" />
     <description>CW</description>
@@ -17,10 +17,10 @@
       <link>https://lisagarbe.github.io/talk/2020-test/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>https://lisagarbe.github.io/talk/2020-test/</guid>
-      <description>&lt;h1&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;div-classalert-alert-note&#34;&gt;&lt;div class=&#34;alert alert-note&#34;&gt;&lt;/h1&gt;
   &lt;div&gt;
     &lt;h1 id=&#34;click-on-the-slides-button-above-to-view-the-built-in-slides-feature&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/h1&gt;
-&lt;h1&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;heading&#34;&gt;&lt;/h1&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
